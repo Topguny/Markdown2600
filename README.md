@@ -4,4 +4,4 @@
 
 [Courses](https://courses.missouri.edu/)
 
-[file in repo](Markdown2600/file1)
+[file in repo](../Markdown2600/file1)
