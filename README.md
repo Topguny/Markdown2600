@@ -2,6 +2,6 @@
 
 #### Markdown
 
-[Courses](courses.missouri.edu)
+[Courses](https://courses.missouri.edu/)
 
 [file in repo](../file1)
