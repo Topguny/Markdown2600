@@ -21,6 +21,6 @@ public class HelloWorld
 
 >Block Quote in Markdown.
 
-*Iron Man
-*Wolverine
-*Deadpool
+* Iron Man
+* Wolverine
+* Deadpool
